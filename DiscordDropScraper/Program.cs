@@ -4,7 +4,7 @@ using Discord.WebSocket;
 
 class Program
 {
-    private static readonly string Token = "MTMwMDMyNjcxODU2ODkyMzE2Ng.Gi5oa0.rz0RfJ71-ckbd93kDXL0bWM1KkRv69Li7_xmGM"; // Replace with your token
+    private static readonly string Token = ""; // Replace with your token
     private static readonly ulong ChannelId = 1287941567809716305;
     private static readonly DateTime StartDate = new DateTime(2024, 11, 1); // Start date filter
 
